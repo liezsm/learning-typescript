@@ -1,2 +1,3 @@
 # learn-typeScript
-Created with CodeSandbox
+
+#Documentation of my learning journey on TypeScript
